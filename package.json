@@ -1,0 +1,12 @@
+{
+  "name": "minimizer",
+  "version": "1.0.0",
+  "description": "developped by hakim_dev",
+  "main": "app.js",
+  "repository": "git",
+  "author": "hakim_dev",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.26.2"
+  }
+}
